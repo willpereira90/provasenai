@@ -1,0 +1,31 @@
+>>Desempenho Diário
+- Design: Permite comparar e acompanhar o crescimento diário dos 2 principais KPIs, que são vendas em R$ e qtdd de itens vendidos.
+- Insights: Analisando esse gráfico, podemos identificar picos de alta e baixa de vendas. Com essa análise, pode-se avaliar se as estratégias aplicadas no dia, estão gerando retorno positivo ou tendo impacto negativo.
+
+>>Mensal
+- Design: Permite comparar e acompanhar o crescimento mensal de vendas.
+- Insights: Permite analisar sazonalidades mensais de datas, estações e outras relacionadas aos tipos de produtos.
+
+>>Anual
+- Design: Permite comparar e acompanhar o crescimento Anual de vendas, por terem poucos itens no parâmetro.
+- Insights: Mostra o resultado dos esforços de cada ano, pode-se analisar essas informações associando com expansões de PDV/filiais, etc.
+
+>>Venda x Status
+- Design: Exibe proporcionalmente o resultado entre o total dos status.
+- Insights: Com essas visualização, podemos medir o impacto negativo de vendas canceladas para ir atrás de entender os motivos e mitigá-los com mudança nas estratégias ou processos, pode-se medir o % de vendas que estão faturadas e ok, bem como medir o que ainda está pendente para poder aplicar as ações necessárias para faturar o quanto antes.
+
+>>Venda x Categoria
+- Design: Melhor comparação do ranking.
+- Insights: Nos mostra rapidamente quais categorias trazem maior volume de vendas, como se fosse uma Curva ABC, onde a partir da análise, podemos potencializar vendas de Curva A e melhorar as estratégias das categorias de curva B e C.
+
+>>Venda x Sexo
+- Design: Melhor visualização gráfica.
+- Insights: Mostra rapidamente quais sexos/preferência sexual consome mais dos nossos produtos. Se filtrar esse gráfico, podemos ver o quando cada sexos/preferência consome por categoria e desempenha de vendas/mês.
+
+>>Venda x Faixa Etária
+- Design: Melhor visualização gráfica.
+- Insights: Mostra rapidamente qual faixa etária consome mais dos nossos produtos. Se filtrar esse gráfico, podemos ver o quando cada faixa consome por categoria e desempenha de vendas/mês, além de exibir quanto por sexos/preferência representa na seleção.
+
+Tomada de decisões: Os dados exibidos a principio foram destacados por conta da necessidade da prova. Mas, pela visão comercial, diria que foram selecionados, pois formam um dashboard somando as visualizações e acompanhamentos por período, junto com as informações de produto (que são o core da empresa) e o perfil básico de clientes consumidores.
+
+Não foram feitas muitas melhorias e acrescentados outros gráficos, devido a perda de tempo tentando instalar postgre. O que me levou a criar a base toda em excel para não deixar de fazer a prova. Lamento o ocorrido.
